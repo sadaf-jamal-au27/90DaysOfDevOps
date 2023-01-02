@@ -5,7 +5,9 @@
 
 Examples:
 
-- ``` ls -l ```--> list the files and directories in long list format with extra information
+- ``` ls -l ```--> list the files and directories in long list format with extra 
+information
+-``` ls -alt ```
 - ```ls -a ```--> list all including hidden files and directory
 - ```ls *.sh``` --> list all the files having .sh extension.
 
